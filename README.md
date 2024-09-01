@@ -1,8 +1,16 @@
 # Hi there 👋 my name is <b> Naman Jain 🧑‍</b> <br/>
-## I'm a Web Developer 
+## I'm a Web Developer & a Competitive Programmer
 
--🔭 I’m currently working on my project <br/> <br/>
-<a href="https://twitter.com/@naman_jain26" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishan" height="50"/></a> <a href="https://www.linkedin.com/in/naman-jain-26june02/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishan-gopal-gupta" height="30" width="40" /></a>
+**Highly motivated IT fresher seeking entry-level roles in the industry. Committed to delivering innovative solutions.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain-26june02/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namanjain2602)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2020B0101039/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-058942?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nj260602/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](officialnamanjain2602@gmail.com)
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img alt="Visual Studio Code" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img alt="Git" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
