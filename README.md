@@ -1,12 +1,6 @@
-# Hi there 👋 my name is <b> Naman Jain 🧑‍</b> <br/>
-## I'm a Web Developer & a Competitive Programmer
-
-**Highly motivated IT fresher seeking entry-level roles in the industry. Committed to delivering innovative solutions.**
-
-
-
 <h1 align="center">Hi 👋, I'm Naman 🧑</h1>
-<h3 align="center">Full Stack Developer & COmpetitive Programmer.</h3>
+<h3 align="center">Full Stack Developer & Competitive Programmer.</h3>
+**Highly motivated IT fresher seeking entry-level roles in the industry. Committed to delivering innovative solutions.**
 
 ![](https://komarev.com/ghpvc/?username=namanjain2602)
 
@@ -19,11 +13,11 @@
 
 ![HTMl](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html&logoColor=00599C)&nbsp;
 ![CSS](https://img.shields.io/badge/-css-05122A?style=for-the-badge&logo=css&logoColor=00599C)&nbsp;
-![ReactJs](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react&logoColor=FFE873)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![ReactJs](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logoColor=FFE873)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-node-05122A?style=for-the-badge&logo=node&logoColor=00599C)&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=namanjain2602)](https://git.io/streak-stats)
