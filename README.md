@@ -3,20 +3,29 @@
 
 **Highly motivated IT fresher seeking entry-level roles in the industry. Committed to delivering innovative solutions.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain-26june02/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namanjain2602)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2020B0101039/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-058942?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nj260602/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialnamanjain2602@gmail.com)
 
----
 
+<h1 align="center">Hi 👋, I'm Naman 🧑</h1>
+<h3 align="center">Full Stack Developer & COmpetitive Programmer.</h3>
+
+![](https://komarev.com/ghpvc/?username=namanjain2602)
+
+- 📫 How to reach me **officialnamanjain2602@gmail.com**
+
+- ⚡ Fun fact **I only code or game, with memes in between them.**
+
+<h3 align="left">Connect with me:</h3>
 <h3 align="left">Languages and Tools:</h3>
 
-<img alt="Visual Studio Code" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img alt="Git" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img height =50 src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" /><img src = "https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" height="50">
-<img src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="60">
-<img src = "https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="50">
+![HTMl](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html&logoColor=00599C)&nbsp;
+![CSS](https://img.shields.io/badge/-css-05122A?style=for-the-badge&logo=css&logoColor=00599C)&nbsp;
+![ReactJs](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react&logoColor=FFE873)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![NodeJs](https://img.shields.io/badge/-node-05122A?style=for-the-badge&logo=node&logoColor=00599C)&nbsp;
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=namanjain2602)](https://git.io/streak-stats)
 
 
