@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-node-05122A?style=for-the-badge&logo=node&logoColor=00599C)&nbsp;
-![MongoDB](https://img.shields.io/badge/-node-05122A?style=for-the-badge&logo=mongodb&logoColor=00599C)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=for-the-badge&logo=mongodb&logoColor=00599C)&nbsp;
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=namanjain2602)](https://git.io/streak-stats)
