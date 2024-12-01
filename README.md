@@ -18,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/-css-05122A?style=for-the-badge&logo=css&logoColor=00599C)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logoColor=FFE873)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge)&nbsp;
-![C](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&%2B%2B&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge)&nbsp;
