@@ -14,7 +14,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-![HTMl](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html&logoColor=00599C)&nbsp;
 ![CSS](https://img.shields.io/badge/-css-05122A?style=for-the-badge&logo=css&logoColor=00599C)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logoColor=FFE873)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge)&nbsp;
